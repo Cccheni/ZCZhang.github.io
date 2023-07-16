@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-ZiHao Zhang  is a Research 0 students and working toward the M.Sc. degree in the School of Cyber Science and Engineering, Southeast University, Nanjing, China, under the supervision of Dr. Guyue Li. 
+Zechen Zhang  is a Research 1 student in School of Cyber Science and Engineering, Southeast University, Nanjing, China, under the supervision of Dr. Guyue Li. 
 个人信息
 
 Position held
@@ -19,8 +19,7 @@ Position held
 published papers
 ======
 论文
-
-
+Z. Zhang, G. Li, J. Shi, H. Li and A. Hu, Real-World aircraft recognition based on RF Fingerprinting with Few Labeled ADS-B Signals, submitted to IEEE Trans. on Vehicular Technology, 2023. (Major revision)
 
 patent
 ------
