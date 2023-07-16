@@ -11,6 +11,5 @@ redirect_from:
 
 Education
 ======
-* B.S. in xxx University, 2012
-* M.S. in xxx University, 2014
-* Ph.D in xxx University, 2018 (expected)
+* B.S. in HoHai University, 2018-2022
+* M.S. in Southeast University, 2022-
